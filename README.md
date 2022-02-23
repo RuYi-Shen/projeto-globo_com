@@ -1,2 +1,2 @@
 # projeto-globo_com
-Created with CodeSandbox
+to run directly please use the follow link: https://ruyi-shen.github.io/projeto-globo_com/
